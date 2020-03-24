@@ -4,7 +4,7 @@ import './Header.css'
 function header(){
     return(
         <header>
-            <h1>Post</h1>
+            <h1>Postergram</h1>
         </header>
     )
 }
